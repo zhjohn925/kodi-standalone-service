@@ -1,3 +1,6 @@
+
+FORK from:  https://github.com/graysky2/kodi-standalone-service
+
 # kodi-standalone-service
 Systemd service units to run [Kodi](https://kodi.tv/) in standalone mode without the need for a DE.  X11, Wayland, and GBM are supported.
 
